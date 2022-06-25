@@ -85,6 +85,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/getting-started/installation.md',
+                '/documentation/getting-started/hello-world.md',
               ],
             },
           ],
