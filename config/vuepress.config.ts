@@ -96,6 +96,10 @@ export default defineUserConfig({
             {
               text: '3 Common Programming Concepts',
               link: '/documentation/common-programming-concepts/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/common-programming-concepts/variables-and-mutability.md',
+              ],
             },
           ],
         },
