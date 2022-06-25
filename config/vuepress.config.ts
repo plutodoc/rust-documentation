@@ -89,6 +89,10 @@ export default defineUserConfig({
                 '/documentation/getting-started/hello-cargo.md',
               ],
             },
+            {
+              text: '2 Programming a Guessing Game',
+              link: '/documentation/guessing-game-tutorial/index.md',
+            },
           ],
         },
       },
