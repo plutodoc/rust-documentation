@@ -93,6 +93,10 @@ export default defineUserConfig({
               text: '2 Programming a Guessing Game',
               link: '/documentation/guessing-game-tutorial/index.md',
             },
+            {
+              text: '3 Common Programming Concepts',
+              link: '/documentation/common-programming-concepts/index.md',
+            },
           ],
         },
       },
