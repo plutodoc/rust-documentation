@@ -99,6 +99,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/common-programming-concepts/variables-and-mutability.md',
+                '/documentation/common-programming-concepts/data-types.md',
               ],
             },
           ],
