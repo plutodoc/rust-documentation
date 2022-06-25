@@ -86,6 +86,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/getting-started/installation.md',
                 '/documentation/getting-started/hello-world.md',
+                '/documentation/getting-started/hello-cargo.md',
               ],
             },
           ],
