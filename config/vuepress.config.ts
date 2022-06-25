@@ -82,6 +82,10 @@ export default defineUserConfig({
             {
               text: '1 Getting Started',
               link: '/documentation/getting-started/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/getting-started/installation.md',
+              ],
             },
           ],
         },
