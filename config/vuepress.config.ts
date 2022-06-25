@@ -102,6 +102,7 @@ export default defineUserConfig({
                 '/documentation/common-programming-concepts/data-types.md',
                 '/documentation/common-programming-concepts/how-functions-work.md',
                 '/documentation/common-programming-concepts/comments.md',
+                '/documentation/common-programming-concepts/control-flow.md',
               ],
             },
           ],
