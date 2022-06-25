@@ -101,6 +101,7 @@ export default defineUserConfig({
                 '/documentation/common-programming-concepts/variables-and-mutability.md',
                 '/documentation/common-programming-concepts/data-types.md',
                 '/documentation/common-programming-concepts/how-functions-work.md',
+                '/documentation/common-programming-concepts/comments.md',
               ],
             },
           ],
